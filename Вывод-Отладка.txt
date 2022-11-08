@@ -1,0 +1,140 @@
+﻿task 1.
+Write the first base of the trapezoid a =  5
+Write the second base of the trapezoid b =  7
+Write height of the trapezoid h =  2
+
+The square of the trapezoid = 12
+
+task 2.
+Write the radius of the circle r =  34
+
+The square of the circle = 3629.84
+The length of the circle = 213.52
+
+task 3.
+Write the first leg of the triangle k1 =  3
+Write the second leg of the triangle k2 =  4
+
+The square of the triangle = 6
+The hypotenuse og the triangle = 5
+
+task 4.
+Write the number =  3498
+
+The sum of the numbers of your amount = 24
+
+task 7.
+Write the number before x^2 k =  1
+Write the the number before x d =  4
+Write the free term n =  3
+
+The first root; x1 = -1
+The second root; x2 = -3
+
+task 8.
+Write the first side of the triangle A =  3
+Write the second side of the triangle B =  4
+Write third side of the triangle C =  5
+
+Median to the a side ma = 2.136
+Median to the b side ma = 1.80278
+Median to the c side ma = 1.25
+
+task 9.
+Write how many seconds have passed from the beginning of the day: 23985
+
+The time is:6 hours : 39 minutes : 45 seconds
+
+task 10.
+Write the first side of the triangle s1 =  3
+Write the second side of the triangle s2 =  4
+Write third side of the triangle s3 =  3
+
+The triangle is equilateral with the base on the side b
+
+task 11.
+Write amount of your purchase - 3476
+
+There will be a 10% sale for you. You have to pay - 3128.4
+
+task 12.
+Write your height 176
+Write your weight 50
+You have an underweight. You have to gain 26 kg.
+
+task 13.
+Write your number 14
+
+You lose! 6 * 9 <> 14
+
+task 14.
+Write the cost per minute 15
+Write the length of the dialogue in minutes 45
+Write the day of the week (1-7) 6
+
+There will be a 10% sale for you. You have to pay - 540
+
+task 15.
+Write the number of the month 6
+
+It's summer time!!
+It's time to get ready for my birthday!! It's June!!
+
+task 16.
+Write the number to test if it's happy 143224
+
+Your number is lucky
+
+task 17.
+Write the number of pennies 3567
+
+You have 3567 kopeek
+
+task 18.
+Write the number to test if this is a palindrom 2332
+
+Your number is a palindrome
+
+task 19.
+Write the number 45
+
+Write the b number 12
+
+task 19.1
+The product is smaller than b
+
+task 19.2
+The sum is not a multiple of 7
+
+task 20.
+Write sides of the first box (a, b)
+24
+89
+
+Write sides of the first box (c, d)
+100
+30
+
+Box (a, b) can be placed in the box (c, d)
+task 21.
+Types:
+        Logical type:
+                Bool : 1
+        Symbolic type:
+                Char : 1
+                Wchar_t : 2
+                Char16_t : 2
+                Char32_t : 4
+        Integral type:
+                Short : 2
+                Int : 4
+                Long : 4
+                Long long: 8
+        Floating point type:
+                Float : 4
+                Double : 8
+                Long double : 8
+
+C:\Users\Лера\source\repos\Project1\x64\Debug\Project1.exe (процесс 11852) завершил работу с кодом 0.
+Чтобы автоматически закрывать консоль при остановке отладки, включите параметр "Сервис" ->"Параметры" ->"Отладка" -> "Автоматически закрыть консоль при остановке отладки".
+Нажмите любую клавишу, чтобы закрыть это окно:
